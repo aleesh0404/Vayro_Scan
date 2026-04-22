@@ -42,7 +42,9 @@ VayroScan is a fast, multithreaded TCP port scanner with a modern dark‑theme G
    
    
    
-   ```pip install customtkinter```
+   ```bash 
+   pip install customtkinter
+
 
 
 
